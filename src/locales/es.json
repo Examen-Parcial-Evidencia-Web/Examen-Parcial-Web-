@@ -1,4 +1,27 @@
-/*
- * Spanish translations for the application.
- */
-
+{
+  "sidebar": {
+    "home": "Inicio",
+    "new-inventory-item": "Nuevo Ítem de Inventario"
+  },
+  "home": {
+    "title": "Inicio",
+    "subtitle": "Vehículos Premium y Gestión de Showroom entregados a su concesionario.",
+    "collections-title": "Mis Colecciones de Showroom"
+  },
+  "showroom-section": {
+    "capacity": "Capacidad Máx",
+    "category": "Categoría"
+  },
+  "inventory-form": {
+    "title": "Nuevo Ítem de Inventario",
+    "section": "Sección del Showroom",
+    "vehicle": "Vehículo",
+    "quantity": "Cantidad",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "success-message": "Ítem de inventario creado con éxito"
+  },
+  "errors": {
+    "occurred": "Ocurrieron errores"
+  }
+}

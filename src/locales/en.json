@@ -1,10 +1,27 @@
 {
-  "name": "locales",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "sidebar": {
+    "home": "Home",
+    "new-inventory-item": "New Vehicle Inventory Item"
   },
-  "private": true
+  "home": {
+    "title": "Home",
+    "subtitle": "Premium Vehicles & Showroom Management Delivered to Your Dealership.",
+    "collections-title": "My Showroom Collections"
+  },
+  "showroom-section": {
+    "capacity": "Max Capacity",
+    "category": "Category"
+  },
+  "inventory-form": {
+    "title": "New Vehicle Inventory Item",
+    "section": "Showroom Section",
+    "vehicle": "Vehicle",
+    "quantity": "Quantity",
+    "save": "Save",
+    "cancel": "Cancel",
+    "success-message": "Inventory item created successfully"
+  },
+  "errors": {
+    "occurred": "Errors occurred"
+  }
 }
